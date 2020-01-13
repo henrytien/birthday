@@ -22,18 +22,18 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "2018.1.14": "./imgs/xiaokeai.png",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        "2018.1.14": "./imgs/xiaokeai.jpg",
+         //"今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "Lydia 点我",
         play: "听音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "happy birthday",
         balloons_flying: "好像少了些什么",
-        cake_fadein: "来一份蛋糕",
-        light_candle: "点蜡烛，Lydia许个愿啦",
-        wish_message: "生日快乐",
+        cake_fadein: "emmm,蛋糕",
+        light_candle: "点蜡烛，Lydia许愿啦",
+        wish_message: "生日快乐~",
         story: "A MESSAGE FOR YOU",
     }
 };
