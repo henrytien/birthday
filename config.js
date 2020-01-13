@@ -3,13 +3,13 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "送给Lydia",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "送给 Lydia",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "马上就是你的生日",
         "这是第四个生日",
         "祝你开心快乐",
         "心情美丽",
         "不快乐的",
-        "都被带走",
+        "都已被带走",
         "Lydia,happy birthday~~",
     ],
     /**
@@ -22,7 +22,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        "2018.1.14": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -30,9 +30,9 @@ var config = {
         turn_on: "Lydia 点我",
         play: "听音乐",
         bannar_coming: "颜色",
-        balloons_flying: "好像少了什么",
-        cake_fadein: "蛋糕喜欢？",
-        light_candle: "点燃蜡烛",
+        balloons_flying: "好像少了些什么",
+        cake_fadein: "来一份蛋糕",
+        light_candle: "点蜡烛，Lydia许个愿啦",
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
     }
